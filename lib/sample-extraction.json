@@ -1,0 +1,582 @@
+{
+ "is_cv": true,
+ "person": {
+  "name": "Devika Mallik",
+  "headline": "Product Designer",
+  "years_stated": 4
+ },
+ "pages": 2,
+ "bullets": [
+  {
+   "id": "b1",
+   "text": "Sole product designer delivering end-to-end design across 5+ digital platforms in government, cultural, and immersive-tech contexts, taking products from research and concept through to shipped, developer-handed-off builds. Worked within agile sprint cycles, setting design milestones, and collaborating directly with engineering and product stakeholders.",
+   "section": "experience",
+   "source": "Vizara",
+   "lead_verb": "deliver",
+   "verbs": [
+    "deliver",
+    "ship",
+    "collaborate"
+   ],
+   "people_signals": [
+    "collaborating",
+    "stakeholders"
+   ],
+   "scope_signals": [
+    "sole",
+    "end-to-end"
+   ],
+   "artefact_nouns": [
+    "platforms"
+   ],
+   "metrics": [
+    {
+     "raw": "5+ digital platforms",
+     "kind": "count",
+     "value": 5,
+     "unit": "items",
+     "label": "platforms"
+    }
+   ],
+   "domain": "government",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b2",
+   "text": "Increased walkthrough completion from under 5% to ~31% by replacing linear navigation with hotspot-based exploration across 3 user segments; on a separate platform, increased content discovery from under 1% to ~13%.",
+   "section": "experience",
+   "source": "Vizara",
+   "lead_verb": "increase",
+   "verbs": [
+    "increase",
+    "replace"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "navigation",
+    "hotspot"
+   ],
+   "metrics": [
+    {
+     "raw": "from under 5% to ~31%",
+     "kind": "before_after",
+     "before": 5,
+     "after": 31,
+     "unit": "%",
+     "label": "walkthrough completion"
+    },
+    {
+     "raw": "from under 1% to ~13%",
+     "kind": "before_after",
+     "before": 1,
+     "after": 13,
+     "unit": "%",
+     "label": "content discovery"
+    }
+   ],
+   "domain": "culture",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b3",
+   "text": "Shipped live products across government, institutional, and exhibition contexts; on a live AR exhibition product, measured 6.1/7 satisfaction across 22 on-site users through structured testing.",
+   "section": "experience",
+   "source": "Vizara",
+   "lead_verb": "ship",
+   "verbs": [
+    "ship",
+    "measure",
+    "test"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [
+    {
+     "raw": "6.1/7 satisfaction across 22 on-site users",
+     "kind": "rating",
+     "value": 6.1,
+     "unit": "score",
+     "label": "satisfaction"
+    }
+   ],
+   "domain": "culture",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b4",
+   "text": "Conducted ethnographic fieldwork visiting artisans on-site to translate lived craft practice into navigable digital experiences.",
+   "section": "experience",
+   "source": "Vizara",
+   "lead_verb": "conduct",
+   "verbs": [
+    "conduct",
+    "translate"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "culture",
+   "discipline": "research"
+  },
+  {
+   "id": "b5",
+   "text": "Integrated engineering earlier in the design cycle, sat with developers during implementation including Unity UI work, and structured developer handoff, cutting revision cycles by ~40% and late-stage rework by ~12%.",
+   "section": "experience",
+   "source": "Vizara",
+   "lead_verb": "integrate",
+   "verbs": [
+    "integrate",
+    "structure",
+    "cut"
+   ],
+   "people_signals": [
+    "developers",
+    "engineering"
+   ],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "UI",
+    "handoff"
+   ],
+   "metrics": [
+    {
+     "raw": "cutting revision cycles by ~40%",
+     "kind": "percent_change",
+     "value": -40,
+     "unit": "%",
+     "label": "revision cycles"
+    },
+    {
+     "raw": "late-stage rework by ~12%",
+     "kind": "percent_change",
+     "value": -12,
+     "unit": "%",
+     "label": "late-stage rework"
+    }
+   ],
+   "domain": "culture",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b6",
+   "text": "Contributed UX strategy and design assets to a government portal concept delivered in 7 days, supporting a $4M public-sector partnership opportunity.",
+   "section": "experience",
+   "source": "Vizara",
+   "lead_verb": "contribute",
+   "verbs": [
+    "contribute",
+    "deliver"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "portal"
+   ],
+   "metrics": [
+    {
+     "raw": "$4M public-sector partnership opportunity",
+     "kind": "money",
+     "value": 4000000,
+     "unit": "currency",
+     "label": "partnership opportunity"
+    },
+    {
+     "raw": "delivered in 7 days",
+     "kind": "time",
+     "value": 7,
+     "unit": "days",
+     "label": "delivery time"
+    }
+   ],
+   "domain": "government",
+   "discipline": "strategy"
+  },
+  {
+   "id": "b7",
+   "text": "Independent product design for early-stage startups: built complete product foundations from partial briefs (user flows, design systems, edge cases, error and empty states, monetisation), and advised pre-seed founders on UX and AI interaction standards including source transparency and recommendation framing.",
+   "section": "experience",
+   "source": "Freelance",
+   "lead_verb": "build",
+   "verbs": [
+    "build",
+    "advise"
+   ],
+   "people_signals": [
+    "advised",
+    "founders"
+   ],
+   "scope_signals": [
+    "independent"
+   ],
+   "artefact_nouns": [
+    "user flows",
+    "design systems",
+    "error states",
+    "empty states"
+   ],
+   "metrics": [],
+   "domain": "saas",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b8",
+   "text": "Led mixed-methods research to address gender bias and build trust in AI-driven financial products during high-stakes financial moments.",
+   "section": "project",
+   "source": "EY Seren",
+   "lead_verb": "lead",
+   "verbs": [
+    "lead",
+    "research"
+   ],
+   "people_signals": [
+    "led"
+   ],
+   "scope_signals": [
+    "led"
+   ],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "fintech",
+   "discipline": "research"
+  },
+  {
+   "id": "b9",
+   "text": "Designed a predictive AI financial companion for women that detects high-risk financial moments and intervenes in real time, using behavioural and physiological signals without removing user agency.",
+   "section": "project",
+   "source": "EY Seren",
+   "lead_verb": "design",
+   "verbs": [
+    "design"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "AI companion"
+   ],
+   "metrics": [],
+   "domain": "fintech",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b10",
+   "text": "Grounded in 130+ surveys and 15+ interviews; identified trust breakdown points across onboarding friction, unfamiliar-market anxiety, and gender-skewed assumptions.",
+   "section": "project",
+   "source": "EY Seren",
+   "lead_verb": "ground",
+   "verbs": [
+    "ground",
+    "identify"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "onboarding"
+   ],
+   "metrics": [
+    {
+     "raw": "130+ surveys",
+     "kind": "count",
+     "value": 130,
+     "unit": "items",
+     "label": "surveys"
+    },
+    {
+     "raw": "15+ interviews",
+     "kind": "count",
+     "value": 15,
+     "unit": "items",
+     "label": "interviews"
+    }
+   ],
+   "domain": "fintech",
+   "discipline": "research"
+  },
+  {
+   "id": "b11",
+   "text": "Developed a Trust Pyramid framework governing how AI earns credibility progressively; tested across three intervention models, achieving a 60% increase in positive user feedback. Presented findings and product direction to EY's design team.",
+   "section": "project",
+   "source": "EY Seren",
+   "lead_verb": "develop",
+   "verbs": [
+    "develop",
+    "test",
+    "present"
+   ],
+   "people_signals": [
+    "presented"
+   ],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "framework"
+   ],
+   "metrics": [
+    {
+     "raw": "60% increase in positive user feedback",
+     "kind": "percent_change",
+     "value": 60,
+     "unit": "%",
+     "label": "positive feedback"
+    }
+   ],
+   "domain": "fintech",
+   "discipline": "research"
+  },
+  {
+   "id": "b12",
+   "text": "Led MVP scoping and patient-side product design for a dual-sided healthcare marketplace responding to NHS access delays, connecting patients with verified GPs for same-day home visits in London.",
+   "section": "project",
+   "source": "HealthTech MVP",
+   "lead_verb": "lead",
+   "verbs": [
+    "lead",
+    "scope",
+    "design"
+   ],
+   "people_signals": [
+    "led"
+   ],
+   "scope_signals": [
+    "led"
+   ],
+   "artefact_nouns": [
+    "marketplace"
+   ],
+   "metrics": [],
+   "domain": "healthtech",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b13",
+   "text": "Solved the supply-side chicken-and-egg problem: GPs browse patient demand and build profiles before completing verification, with bookings locked until medical credentials are manually approved.",
+   "section": "project",
+   "source": "HealthTech MVP",
+   "lead_verb": "solve",
+   "verbs": [
+    "solve"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "healthtech",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b14",
+   "text": "Designed two distinct patient onboarding entry modes within a single interface: emergency users browse and book first with account creation deferred to payment; routine users onboard fully upfront.",
+   "section": "project",
+   "source": "HealthTech MVP",
+   "lead_verb": "design",
+   "verbs": [
+    "design"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "onboarding",
+    "interface"
+   ],
+   "metrics": [],
+   "domain": "healthtech",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b15",
+   "text": "Owned GP compliance onboarding across three progressive stages, mapping documentation and regulatory requirements sequentially to reduce abandonment without compromising compliance.",
+   "section": "project",
+   "source": "HealthTech MVP",
+   "lead_verb": "own",
+   "verbs": [
+    "own",
+    "map",
+    "reduce"
+   ],
+   "people_signals": [],
+   "scope_signals": [
+    "owned"
+   ],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "healthtech",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b16",
+   "text": "Scoped the product from 30+ features to 12 across two structured prioritisation workshops, aligning founders, clinical advisors, and engineering on MVP scope. Delivered build-ready MVP and developer-handoff specification, validated through stakeholder review.",
+   "section": "project",
+   "source": "HealthTech MVP",
+   "lead_verb": "scope",
+   "verbs": [
+    "scope",
+    "align",
+    "deliver",
+    "validate"
+   ],
+   "people_signals": [
+    "aligning",
+    "workshops",
+    "stakeholder"
+   ],
+   "scope_signals": [],
+   "artefact_nouns": [
+    "MVP",
+    "handoff specification"
+   ],
+   "metrics": [
+    {
+     "raw": "from 30+ features to 12",
+     "kind": "before_after",
+     "before": 30,
+     "after": 12,
+     "unit": "items",
+     "label": "features in scope"
+    }
+   ],
+   "domain": "healthtech",
+   "discipline": "product_design"
+  },
+  {
+   "id": "b17",
+   "text": "Led systems mapping and business design methods to support the Royal Air Force's goal of reducing carbon emissions and embedding Social Value provisions into procurement and delivery.",
+   "section": "project",
+   "source": "Ministry of Defence",
+   "lead_verb": "lead",
+   "verbs": [
+    "lead",
+    "map"
+   ],
+   "people_signals": [
+    "led"
+   ],
+   "scope_signals": [
+    "led"
+   ],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "government",
+   "discipline": "service_design"
+  },
+  {
+   "id": "b18",
+   "text": "Diagnosed the core failure as structural rather than financial: sustainability accountability sat between functions with no clear ownership across the procurement chain.",
+   "section": "project",
+   "source": "Ministry of Defence",
+   "lead_verb": "diagnose",
+   "verbs": [
+    "diagnose"
+   ],
+   "people_signals": [],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "government",
+   "discipline": "service_design"
+  },
+  {
+   "id": "b19",
+   "text": "Designed a Social Value Activation Plan embedding sustainability outcomes into procurement decision-making at the point of design, co-developed with policy, procurement, and delivery stakeholders.",
+   "section": "project",
+   "source": "Ministry of Defence",
+   "lead_verb": "design",
+   "verbs": [
+    "design",
+    "co-develop"
+   ],
+   "people_signals": [
+    "co-developed",
+    "stakeholders"
+   ],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [],
+   "domain": "government",
+   "discipline": "service_design"
+  },
+  {
+   "id": "b20",
+   "text": "Co-Led 60-day women's health sprint (VOXAGO INDIA): 190 surveys, 50 interviews, ecosystem and journey mapping across access barriers to women's health services in India.",
+   "section": "leadership",
+   "source": "VOXAGO",
+   "lead_verb": "co-lead",
+   "verbs": [
+    "co-lead",
+    "map"
+   ],
+   "people_signals": [
+    "co-led"
+   ],
+   "scope_signals": [
+    "led"
+   ],
+   "artefact_nouns": [],
+   "metrics": [
+    {
+     "raw": "190 surveys, 50 interviews",
+     "kind": "count",
+     "value": 190,
+     "unit": "items",
+     "label": "surveys"
+    }
+   ],
+   "domain": "healthtech",
+   "discipline": "research"
+  },
+  {
+   "id": "b21",
+   "text": "Design Coach, RCA x London Business School: mentored 6 MBA students on product design and systems thinking.",
+   "section": "leadership",
+   "source": "RCA x LBS",
+   "lead_verb": "mentor",
+   "verbs": [
+    "mentor"
+   ],
+   "people_signals": [
+    "mentored"
+   ],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [
+    {
+     "raw": "6 MBA students",
+     "kind": "count",
+     "value": 6,
+     "unit": "people",
+     "label": "students mentored"
+    }
+   ],
+   "domain": null,
+   "discipline": "other"
+  },
+  {
+   "id": "b22",
+   "text": "Assistant Facilitator, Ealing Council Innovation Lab: guided secondary school students through a 3-day civic design challenge.",
+   "section": "leadership",
+   "source": "Ealing Council",
+   "lead_verb": "facilitate",
+   "verbs": [
+    "facilitate",
+    "guide"
+   ],
+   "people_signals": [
+    "facilitator",
+    "guided"
+   ],
+   "scope_signals": [],
+   "artefact_nouns": [],
+   "metrics": [
+    {
+     "raw": "3-day civic design challenge",
+     "kind": "time",
+     "value": 3,
+     "unit": "days",
+     "label": "challenge"
+    }
+   ],
+   "domain": "government",
+   "discipline": "other"
+  }
+ ]
+}
